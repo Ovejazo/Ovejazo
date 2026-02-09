@@ -2,11 +2,11 @@
 
 <div align="center">
 
-**Estudiante de Ingeniería Civil en Informática @ USACH 🇨🇱**
+**Estudiante de Ingeniería Civil en Informática**
 
 🚀 Full Stack Developer | 🛡️ Ciberseguridad Entusiasta | 🎮 Game Dev Hobbyist
 
-[LinkedIn](TU_LINK_A_LINKEDIN) • [Email](mailto:thomas.a.riffo.sanchez@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/thomas-riffo-sanchez-b878b72a6/) • [Email](mailto:thomas.a.riffo.sanchez@gmail.com)
 
 </div>
 
@@ -14,13 +14,13 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un estudiante de cuarto año apasionado por la tecnología y la resolución de problemas complejos. Mi enfoque combina el desarrollo de software robusto con la seguridad informática.
+Soy un estudiante de 4rto año, me gusta el desarrollo web, descubrir nuevas tecnologías y aprender sobre temas nuevos de videojuegos. 
 
 - 🎓 **Formación:** Estudiante de Ingeniería Civil en Informática en la Universidad de Santiago de Chile.
 - 💻 **Enfoque:** Desarrollo Full Stack (Java/Springboot & JS Frameworks).
-- 🔐 **Intereses:** Actualmente profundizando en **Ciberseguridad** (Kali Linux, Protocolos) y **DevOps**.
+- 🔐 **Intereses:** Actualmente profundizando en **Ciberseguridad** (Kali Linux, Protocolos).
 - 🎮 **Hobby:** Me encanta el desarrollo de videojuegos y aprender las mecánicas detrás de ellos.
-- ⚡ **Filosofía:** "Siempre mejorando y adquiriendo nuevos conocimientos."
+- ⚡ **Sobre mí:** "Siempre mejorando y adquiriendo nuevos conocimientos."
 
 ---
 
@@ -47,8 +47,3 @@ A lo largo de mi formación y proyectos, he trabajado con un amplio abanico de t
 
 #### ⚙️ Herramientas
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-<div align="center">
-  <i>¡Gracias por visitar mi perfil!</i>
-</div>
