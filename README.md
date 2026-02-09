@@ -4,7 +4,7 @@
 
 **Estudiante de Ingeniería Civil en Informática**
 
-🚀 Full Stack Developer | 🛡️ Ciberseguridad Entusiasta | 🎮 Game Dev Hobbyist
+🚀 Full Stack Developer | 🛡️ Ciberseguridad | 🎮 Game Dev Hobbyist
 
 [LinkedIn](https://www.linkedin.com/in/thomas-riffo-sanchez-b878b72a6/) • [Email](mailto:thomas.a.riffo.sanchez@gmail.com)
 
@@ -19,7 +19,7 @@ Soy un estudiante de 4rto año, me gusta el desarrollo web, descubrir nuevas tec
 - 🎓 **Formación:** Estudiante de Ingeniería Civil en Informática en la Universidad de Santiago de Chile.
 - 💻 **Enfoque:** Desarrollo Full Stack (Java/Springboot & JS Frameworks).
 - 🔐 **Intereses:** Actualmente profundizando en **Ciberseguridad** (Kali Linux, Protocolos).
-- 🎮 **Hobby:** Me encanta el desarrollo de videojuegos y aprender las mecánicas detrás de ellos.
+- 🎮 **Hobby:** Cada vez que tengo el tiempo, me encanta el desarrollo de videojuegos y aprender las mecánicas detrás de ellos.
 - ⚡ **Sobre mí:** "Siempre mejorando y adquiriendo nuevos conocimientos."
 
 ---
@@ -31,7 +31,7 @@ A lo largo de mi formación y proyectos, he trabajado con un amplio abanico de t
 #### ☕ Backend & Lenguajes
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
-![Scheme](https://img.shields.io/badge/scheme-%23333333.svg?style=for-the-badge&logo=scheme&logoColor=white) ![Prolog](https://img.shields.io/badge/prolog-%23B42025.svg?style=for-the-badge&logo=prolog&logoColor=white) *(Paradigmas Lógicos/Funcionales)*
+![Scheme](https://img.shields.io/badge/scheme-%23333333.svg?style=for-the-badge&logo=scheme&logoColor=white) ![Prolog](https://img.shields.io/badge/prolog-%23B42025.svg?style=for-the-badge&logo=prolog&logoColor=white)
 
 #### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
