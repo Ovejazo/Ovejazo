@@ -50,6 +50,9 @@ A lo largo de mi formación y proyectos, he trabajado con un amplio abanico de t
 #### 🗄️ Datos & Ciencia
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-%23D44912.svg?style=for-the-badge&logo=Mathworks&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+#### 🎮 Game Dev
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
 #### 🛡️ Seguridad & Redes
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
