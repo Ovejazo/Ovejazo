@@ -1,27 +1,54 @@
-## Soy Thomas Riffo
+# Hola, soy Thomas Riffo 👋
 
-### Sobre mi
-- Soy un estudiante de la Universidad de Santiago de Chile
-- Tengo conocimiento full stack
-- Me gusta desarrollar videojuegos y aprender constantemente sobre ellos.
-- Una base solida con respecto a la ciberseguridad.
-- Siempre voy mejorando y adquiriendo nuevos conocimientos.
+<div align="center">
 
-### Tecnologías
-- 
+**Estudiante de Ingeniería Civil en Informática @ USACH 🇨🇱**
 
+🚀 Full Stack Developer | 🛡️ Ciberseguridad Entusiasta | 🎮 Game Dev Hobbyist
 
-<!--
-**Ovejazo/Ovejazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](TU_LINK_A_LINKEDIN) • [Email](mailto:thomas.a.riffo.sanchez@gmail.com)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre mí
+
+Soy un estudiante de cuarto año apasionado por la tecnología y la resolución de problemas complejos. Mi enfoque combina el desarrollo de software robusto con la seguridad informática.
+
+- 🎓 **Formación:** Estudiante de Ingeniería Civil en Informática en la Universidad de Santiago de Chile.
+- 💻 **Enfoque:** Desarrollo Full Stack (Java/Springboot & JS Frameworks).
+- 🔐 **Intereses:** Actualmente profundizando en **Ciberseguridad** (Kali Linux, Protocolos) y **DevOps**.
+- 🎮 **Hobby:** Me encanta el desarrollo de videojuegos y aprender las mecánicas detrás de ellos.
+- ⚡ **Filosofía:** "Siempre mejorando y adquiriendo nuevos conocimientos."
+
+---
+
+### 🛠️ Tech Stack
+
+A lo largo de mi formación y proyectos, he trabajado con un amplio abanico de tecnologías:
+
+#### ☕ Backend & Lenguajes
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br>
+![Scheme](https://img.shields.io/badge/scheme-%23333333.svg?style=for-the-badge&logo=scheme&logoColor=white) ![Prolog](https://img.shields.io/badge/prolog-%23B42025.svg?style=for-the-badge&logo=prolog&logoColor=white) *(Paradigmas Lógicos/Funcionales)*
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+#### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+#### 🗄️ Datos & Ciencia
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Matlab](https://img.shields.io/badge/Matlab-%23D44912.svg?style=for-the-badge&logo=Mathworks&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+#### 🛡️ Seguridad & Redes
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+
+#### ⚙️ Herramientas
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+<div align="center">
+  <i>¡Gracias por visitar mi perfil!</i>
+</div>
